@@ -37,12 +37,14 @@ def score_sum (ops):
 
 # print(score_sum([4,2,"+"]))
 # print(score_sum([]))
-# print(score_sum(null))
+print(score_sum("null"))
 # print(score_sum([4,"+"]))
 # print(score_sum([4,"C"]))
 # print(score_sum([4,2,"D"]))
 # print(score_sum([4]))
 # print(score_sum([4,"D"]))
+# print(score_sum(["A","D"]))
+
 
 
 
